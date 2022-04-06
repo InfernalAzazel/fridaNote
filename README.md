@@ -6,9 +6,9 @@ Frida 在国内 Hook PC端资料不多,在学习途中做笔记并编成教程�
 
 [![python](https://img.shields.io/badge/python-3.10.x-blue.svg?style=flat-square)]()
 [![node](https://img.shields.io/badge/node-16.14.0-orange.svg?style=flat-square)]()
-[![frida](https://img.shields.io/badge/frida-brightgreen.svg?style=flat-square)](https://2x.antdv.com/docs/vue/introduce)
-[![pycharm](https://img.shields.io/badge/pycharm-2021.3.3-orange.svg?style=flat-square)](https://2x.antdv.com/docs/vue/introduce)
-[![vscode](https://img.shields.io/badge/vscode-orange.svg?style=flat-square)](https://2x.antdv.com/docs/vue/introduce)
+[![frida](https://img.shields.io/badge/frida-brightgreen.svg?style=flat-square)]()
+[![pycharm](https://img.shields.io/badge/pycharm-2021.3.3-orange.svg?style=flat-square)]()
+[![vscode](https://img.shields.io/badge/vscode-orange.svg?style=flat-square)]()
 
 </div>
 
