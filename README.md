@@ -14,11 +14,13 @@ Frida 在国内 Hook PC端资料不多,在学习途中做笔记并编成教程�
 
 # 目录
 
-[1.HOOK hello.c 监听函数的参数值](./example_1/README.md)
+[1.监听函数的参数值](./example_1/README.md)
 
-[2.HOOK hello.c 修改函数的参数值](./example_2/README.md)
+[2.修改函数的参数值](./example_2/README.md)
 
-[3.HOOK hello.c 调用它的函数](./example_3/README.md)
+[3.调用它的函数](./example_3/README.md)
+
+[4.注入字符串和调用函数](./example_4/README.md)
 
 
 # 声明
