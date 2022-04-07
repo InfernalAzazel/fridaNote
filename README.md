@@ -14,6 +14,6 @@ Frida 在国内 Hook PC端资料不多,在学习途中做笔记并编成教程�
 
 # 目录
 
-[1.HOOK hello.c 并监听函数的参数值](./example_1/README.md)
+[1.HOOK hello.c 监听函数的参数值](./example_1/README.md)
 
 [2.HOOK hello.c 修改函数的参数值](./example_2/README.md)
