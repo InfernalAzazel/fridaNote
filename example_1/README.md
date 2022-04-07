@@ -1,4 +1,4 @@
-<div align="center"><h1>HOOK hello.c 并监听该函数输出</h1></div>
+<div align="center"><h1>HOOK hello.c 并监函数输出</h1></div>
 
 
 
@@ -35,4 +35,13 @@ Number: 2
 ```
     sudo sysctl kernel.yama.ptrace_scope=0
     python hook.py 0x5588fa7f8169
+```
+#### 四. 您将会看到的效果
+
+```
+...
+{'type': 'send', 'payload': 2379}
+{'type': 'send', 'payload': 2380}
+{'type': 'send', 'payload': 2381}
+...
 ```

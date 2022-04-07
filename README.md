@@ -14,4 +14,4 @@ Frida 在国内 Hook PC端资料不多,在学习途中做笔记并编成教程�
 
 # 目录
 
-[1.HOOK hello.c 并监听该函数输出](./example_1/README.md)
+[1.HOOK hello.c 并监函数输出](./example_1/README.md)
