@@ -22,6 +22,8 @@ Frida 在国内 Hook PC端资料不多,在学习途中做笔记并编成教程�
 
 [4.注入字符串和调用函数](./example_4/README.md)
 
+[5.注入恶意字节数组](./example_5/README.md)
+
 
 # 声明
 
